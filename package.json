@@ -1,0 +1,32 @@
+{
+  "name": "electron-phoenix-live-view-example",
+  "version": "1.0.0",
+  "description": "A minimal desktop application using electron and phoenix live view",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigues/phoenix_live_view_example.git"
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/rodrigues/phoenix_live_view_example/issues"
+  },
+  "homepage": "https://github.com/rodrigues/phoenix_live_view_example#readme",
+  "devDependencies": {
+    "electron": "^4.1.0"
+  },
+  "dependencies": {
+    "continuation-local-storage": "^3.1.4",
+    "request-promise": "^4.2.4"
+  }
+}
